@@ -1,4 +1,3 @@
-// Copyright 2024 Kirill Remizov
 
 #ifndef LIB_DMASSIVE_LIB_DMASSIVE_HEDER_H_
 #define LIB_DMASSIVE_LIB_DMASSIVE_HEDER_H_

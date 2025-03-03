@@ -8,7 +8,9 @@ project(Algorithms-and-Data-Structures)
 
 include(cmake/function.cmake)         # подхватываем функции, реализованные в файле function.cmake
                                       # для простоты мы объединили наборы команд для создания статической библиотеки
-
+add_subdirectory(lib_String)
+add_subdirectory(lib_Parser)
+add_subdirectory(Calculator_algorithmic_exp)
 add_subdirectory(lib_easy_example)
 add_subdirectory(lib_TList)
 add_subdirectory(C_Stack)

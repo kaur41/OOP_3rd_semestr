@@ -1,4 +1,3 @@
-// Copyright 2024 Kirill Remizov
 #include <utility>
 #include <algorithm>
 
