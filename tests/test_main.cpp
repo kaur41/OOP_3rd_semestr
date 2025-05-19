@@ -1,4 +1,3 @@
-// Copyright 2024 Marina Usova
 
 #include <gtest.h>
 

@@ -1,0 +1,3 @@
+﻿  main.cpp
+D:\OOP_3rd_semestr\Interview_tasks\labyrinth_DSU\labyrinth_DSU\main.cpp(25,19): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  labyrinth_DSU.vcxproj -> D:\OOP_3rd_semestr\Interview_tasks\labyrinth_DSU\x64\Debug\labyrinth_DSU.exe
